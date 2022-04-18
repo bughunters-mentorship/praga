@@ -1,0 +1,3 @@
+Olá, meu nome é Fábio César!
+
+Estou na turma 3 Turing Alpha EdTech aprendendo a utiliazr o Git e a GUI Github junto aos meus colegas.
